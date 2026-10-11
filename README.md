@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saumitra Chaturvedi
 
-<!--
-**saumitra-csec/saumitra-csec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring SOC Analyst | Blue Team | Incident Response | Digital Forensics
 
-Here are some ideas to get you started:
+I'm building practical skills in Security Operations, threat detection, incident response, and digital forensics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Security Operations Centre (SOC)
+- SIEM monitoring and alert triage
+- Threat hunting and detection engineering
+- Incident response and DFIR
+- Windows event log analysis
+- Digital forensics and threat intelligence
+
+### Tools & Technologies
+- **SIEM:** Splunk, Wazuh
+- **Network Analysis:** Wireshark, Nmap
+- **Digital Forensics:** Autopsy, FTK, Cellebrite UFED
+- **Operating Systems:** Windows, Linux, Kali Linux
+- **Frameworks:** MITRE ATT&CK
+
+### Current Focus
+- Building hands-on SOC investigation labs
+- Analysing Windows security logs and Sysmon events
+- Writing and testing detection rules
+- Documenting incident investigations and forensic findings
+
+### Connect
+- LinkedIn: www.linkedin.com/in/-saumitrachaturvedi
